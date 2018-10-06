@@ -1,0 +1,10 @@
+[package]
+name = "lamplighter"
+version = "0.1.0"
+authors = ["matthew"]
+
+[dependencies]
+philipshue = "0.3.2"
+xdg = "^2.1"
+termion = "1"
+clap = "2.32.0"
